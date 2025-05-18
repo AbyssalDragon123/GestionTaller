@@ -1,0 +1,238 @@
+{
+	"info": {
+		"_postman_id": "b78f589d-d758-4633-9525-5bcbd4eed7d0",
+		"name": "GestorTaller",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43850714",
+		"_collection_link": "https://red-escape-2236954.postman.co/workspace/Alekey_31's-Workspace~f892a251-9f8d-4289-813e-f7255b632dd4/collection/43850714-b78f589d-d758-4633-9525-5bcbd4eed7d0?action=share&source=collection_link&creator=43850714"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5098/api/obtieneClientes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneClientes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneClientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneFacturas",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneFacturas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneFacturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneMecanicos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneMecanicos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneMecanicos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneRepuestos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneRepuestos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneRepuestos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneServicios",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneServicios",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneServicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneTalleres",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneTalleres",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneTalleres"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneServicios",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneServicios",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneServicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneTalleres",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneTalleres",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneTalleres"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneTurnos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneTurnos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneTurnos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5098/api/obtieneVehiculos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5098/api/obtieneVehiculos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5098",
+					"path": [
+						"api",
+						"obtieneVehiculos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
